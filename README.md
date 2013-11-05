@@ -23,10 +23,10 @@ completed:function - Callback to be made after all requests have been processed,
 
 Important!!
 ajax is executed with global=false so any global error handling or setup is ignored.
-Any of the standard ajax callback handlers that are set on the options object passed to ajaxn are deleted before execution, you must used the callback handlers mentioned above.
+Any of the standard ajax callback handlers that are set on the options object passed to ajaxn are deleted before execution, you must use the callback handlers mentioned above.
 
 
 Feel free to make any constructive criticism or suggestions and/or submit pull requestss with suggested changes/improvements.  We are just starting to use this in the system it was developed for there may be some changes to come.
 
-Once it is table a NuGet package will be created and published.  
+Once it is stable a NuGet package will be created and published.  
 
