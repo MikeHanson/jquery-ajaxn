@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C2A4F4C4-E47F-4E71-8A9E-538D8838AA94}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+		jasmine-html.js = jasmine-html.js
+		jasmine.css = jasmine.css
+		jasmine.js = jasmine.js
+		jasmine_favicon.png = jasmine_favicon.png
+		jasmineReport.js = jasmineReport.js
+		jquery-1.8.1.js = jquery-1.8.1.js
+		jquery-ajaxn.js = jquery-ajaxn.js
+		MIT.LICENSE = MIT.LICENSE
+		README.md = README.md
+		Specs.html = Specs.html
+		Specs.js = Specs.js
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
